@@ -28,7 +28,5 @@ Screen sharing to present documents, slides, and more
 Everyting is peer-to-peer thanks to webrtc
 
 # Local setup
-
-yarn install
-
-yarn dev
+      yarn install
+       yarn dev
