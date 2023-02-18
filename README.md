@@ -28,6 +28,6 @@ Try Video Meeting here video.sebastienbiollo.com
 * Everyting is peer-to-peer thanks to webrtc
 
 # Local setup
-1.    yarn install
+     1.    yarn install
       
-2.    yarn dev
+     2.    yarn dev
