@@ -15,17 +15,17 @@ Try Video Meeting here video.sebastienbiollo.com
 
 # Features
 
-Is 100% free and open-source
+* Is 100% free and open-source
 
-No account needed
+* No account needed
 
-Unlimited users
+* Unlimited users
 
-Messaging chat and video streaming in real-time
+* Messaging chat and video streaming in real-time
 
-Screen sharing to present documents, slides, and more
+* Screen sharing to present documents, slides, and more
 
-Everyting is peer-to-peer thanks to webrtc
+* Everyting is peer-to-peer thanks to webrtc
 
 # Local setup
       1. yarn install
