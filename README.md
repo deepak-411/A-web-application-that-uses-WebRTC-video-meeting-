@@ -10,4 +10,25 @@ Developed with ReactJS, Node.js, SocketIO.
 ![image](https://user-images.githubusercontent.com/73719617/219857297-cb71fda3-eded-443e-a7ae-8d1d0c74e9e2.png)
 
 
-@ website
+# website
+Try Video Meeting here video.sebastienbiollo.com
+
+# Features
+
+Is 100% free and open-source
+
+No account needed
+
+Unlimited users
+
+Messaging chat and video streaming in real-time
+
+Screen sharing to present documents, slides, and more
+
+Everyting is peer-to-peer thanks to webrtc
+
+# Local setup
+
+yarn install
+
+yarn dev
